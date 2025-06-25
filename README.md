@@ -14,6 +14,6 @@ Basit ve çok iş parçacıklı (multi-threaded) bir TCP port tarama aracı. Pyt
 
  -Kurulum-
 
-git clone https://github.com/forwellsh/portscanner.git
+git clone https://github.com/forwellsh/PortScan
 cd portscanner
 python3 portscan.py -h
