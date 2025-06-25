@@ -20,4 +20,4 @@ git clone https://github.com/forwellsh/PortScan
 cd PortScan
 
 
-python3 portscancan.py -h
+python3 portscan.py -h
